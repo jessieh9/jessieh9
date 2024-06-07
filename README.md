@@ -20,4 +20,5 @@
            
 <br />
 
-#
+I'm a fullstack developer who's currently expanding my skillset in DevOps. I'm currently working on DataBase research and Embedded Systems NLM. 
+
