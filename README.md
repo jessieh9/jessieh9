@@ -20,7 +20,7 @@
 <br/>
 
 #
-I'm currently expanding my skillset in DevOps and doing research on [databases and query optimization](https://github.com/ISG-ICS) and Natural Language Models in Embedded Systems.
+I'm currently expanding my skillset in DevOps and doing research on [databases and query optimization](https://github.com/ISG-ICS) and Natural Language Models in Embedded Systems. I am also working on a Research Assistant Lab Management software for ChrastiLab.
 
 
 
